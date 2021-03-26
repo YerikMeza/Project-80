@@ -1,0 +1,50 @@
+body {
+text-align: center;
+}
+
+#Button_Get_Paragrah_1
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#Button_Get_Paragrah_2
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+#Rows_1{
+	width: 49%;
+	
+}
+
+#Rows_2{
+	width: -49%;
+	
+}
+
+input
+{
+	margin: 10px;
+}
+#Paragrah_1
+{
+	font-size: 30px;
+	font-weight: bold;
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#Paragrah_2
+{
+	font-size: 30px;
+	font-weight: bold;
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
